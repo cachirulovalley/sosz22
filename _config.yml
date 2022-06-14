@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SOSZ20 - Startup Open Space Zaragoza
+title: SOSZ22 - Startup Open Space Zaragoza - 24 Septiembre 2022
 tagline: Cachirulo Valley
 email: hola@cachirulovalley.com
 description: > # this means to ignore newlines until "baseurl:"

@@ -19,10 +19,4 @@ $(document).ready(function(){
   });
   L.marker([41.659472,-0.907274]).addTo(map);
   map.addLayer(layer);
-
-  // Countdown
-  $('.banner-countdown').downCount({
-    date: '03/23/2020 9:00:00',
-    offset: +10
-  });
 });

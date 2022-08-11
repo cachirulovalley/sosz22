@@ -3,6 +3,7 @@
   list-style: none;
   margin: 0;
   padding: 2em 0;
+  text-align: center;
   li {
     display: inline-block;
     margin: 40px;
@@ -20,10 +21,6 @@
   a{
       cursor: pointer;
   }
-}
-.sponsor-telsome {
-  width: 100px;
-  background-image: url(../img/logos/telsome.png);
 }
 .sponsor-10labs {
   background-image: url(../img/logos/10labs.png);
@@ -115,6 +112,22 @@
 .sponsor-manfred {
   height: 40px;
   background-image: url(../img/logos/manfred.png);
+}
+.sponsor-kambanize {
+  height: 28px;
+  background-image: url(../img/logos/kambanize.png);
+}
+.sponsor-enreach {
+  height: 43px;
+  background-image: url(../img/logos/enreach.png);
+}
+.sponsor-ethichub {
+  height: 54px;
+  background-image: url(../img/logos/ethichub.png);
+}
+.sponsor-vueling {
+  height: 54px;
+  background-image: url(../img/logos/vueling.png);
 }
 
 @media (max-width: 480px) {
